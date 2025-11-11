@@ -26,6 +26,7 @@ Mobile App Dev - App Brainstorming Example
 1. Allowes users to track the amount of electronic components they have
 2. Stops the problem of "Do I have it already?"
 3. Gives you the percise location of the item by tracking it with qr codes
+## New App Ideas - 
 
 
 ## Top 3 New App Ideas
@@ -43,10 +44,10 @@ Mobile App Dev - App Brainstorming Example
    - **Habit:** Students are using chatGPT to help them with their homework anyway and making the tool more of a aid for education as opposed to what we have right now will help teachers be more willing to implement it into their classrooms
    - **Scope:** My MVP will just focus on the custom GPT and a texting like interface
 2. Inventory App
-- **Description:** Allows people with lots of items sort them into bins so that locating the items is easy to do with qr codes
-- **Category:** Lifestyle
-- **Mobile:** Mobile is neseccary to help users add items to their database (inventory)
-- **Story:** Helps users with orgonization of their items as well as helps users locate items and know what they have in stock
-- **Market:** Anyone struggling with finding items that they have orgonized in containers as you sometimes have to search through the containers even if you have labels for the containers espically if you have containers inside of contianers
-- **Habit:** Instead of searching for something for hours or ordoring more parts that you already have you have a catalog online where you can find exactly what you need if you have it and where it is
-- **Scope:** My MVP will help a user add an item to their inventory use the camera for adding an items picture as well as scanning the qr codes on the containers
+    - **Description:** Allows people with lots of items sort them into bins so that locating the items is easy to do with qr codes
+    - **Category:** Lifestyle
+    - **Mobile:** Mobile is neseccary to help users add items to their database (inventory)
+    - **Story:** Helps users with orgonization of their items as well as helps users locate items and know what they have in stock
+    - **Market:** Anyone struggling with finding items that they have orgonized in containers as you sometimes have to search through the containers even if you have labels for the containers espically if you have containers inside of contianers
+    - **Habit:** Instead of searching for something for hours or ordoring more parts that you already have you have a catalog online where you can find exactly what you need if you have it and where it is
+    - **Scope:** My MVP will help a user add an item to their inventory use the camera for adding an items picture as well as scanning the qr codes on the containers
