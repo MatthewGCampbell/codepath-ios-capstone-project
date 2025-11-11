@@ -32,7 +32,7 @@ Mobile App Dev - App Brainstorming Example
 ## Top 3 New App Ideas
 1. ChatGPT clone
 2. Inventory manager
-3. ??!??!?!?
+3. Vintage Macintosh Collection
 
 ## New App Ideas - Evaluate and Categorize
 1. ChatGPT clone
@@ -51,3 +51,11 @@ Mobile App Dev - App Brainstorming Example
     - **Market:** Anyone struggling with finding items that they have orgonized in containers as you sometimes have to search through the containers even if you have labels for the containers espically if you have containers inside of contianers
     - **Habit:** Instead of searching for something for hours or ordoring more parts that you already have you have a catalog online where you can find exactly what you need if you have it and where it is
     - **Scope:** My MVP will help a user add an item to their inventory use the camera for adding an items picture as well as scanning the qr codes on the containers
+3. Vintage Macintosh Collection
+    - **Description:** Allows a classic macintosh collector to see what they have in their collection 
+    - **Category:** Lifestyle
+    - **Mobile:** Mobile is necessary since the users need to be able to add images to their database
+    - **Story:** Helps users identify what they have in their collection and how valuable each device is and how valuable a device might be to add to their collection
+    - **Market:** Classic Macintosh collectors
+    - **Habit:** Insead of needing to look do your research on each computer and needed to remember how to use each computer as well as needing to rememeber what you've repaired on each computer you have a great platform to be able to quickly glance at
+    - **Scope:** My MVP will just allow the user to add an image, description, and a list of things that have been done to the computer that will be stored in the database
