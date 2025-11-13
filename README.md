@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# Vintange Mac Inventory
 
 ## Table of Contents
 
@@ -14,31 +14,34 @@ Original App Design Project - README Template
 
 ### Description
 
-[Description of your app]
+[An app that helps you track your vintage macintosh inventory and helps you understand how rare your collection is and what you might want to add to make it more desirable]
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Lifestyle
+- **Mobile:** A mobile focused app allows users to add to their inventory using their iPhone's camera, and makes it easy to access on the go.
+- **Story:** The audience for this app is very focused and it would help them orgonize their collection and understand what they have better espically if they are just getting into the hobby
+- **Market:** The market for this app is very unique
+- **Habit:** Instead of having to spend hours doing research on what exactly you have and how valuable it is this app give you a one stop shop platform for all of the necessary information
+- **Scope:** I don't think it will be too much of a challenge it is just a collection of items pulled from an API/Database at least for the MVP
 
 ## Product Spec
 
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
-
-* [fill in your required user stories here]
-* ...
+* User must be able to add a computer to their collection
+* User must be able to update the information for each entry in their collection
+* User must be able to login
+* User must be able to sign up
+* User must be able to upload an image
+* User must be able to add items to their wish list
 
 **Optional Nice-to-have Stories**
-
-* [fill in your required user stories here]
-* ...
+* The app should show the user how rare their computer is and how much they can sell it for
+* Add more than just vintage macintosh computers
+* Add the bootup sounds for each computer and when you click it, it will play it (Like mactracker)
 
 ### 2. Screen Archetypes
 
