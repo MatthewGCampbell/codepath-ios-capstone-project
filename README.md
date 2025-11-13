@@ -80,7 +80,9 @@ Original App Design Project - README Template
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://github.com/MatthewGCampbell/codepath-ios-capstone-project/blob/main/IMG_1407.jpeg" width="600">
+<div style="display: inline-block; transform: rotate(-90deg);">
+  <img src="https://github.com/MatthewGCampbell/codepath-ios-capstone-project/blob/main/IMG_1407.jpeg" width="600">
+</div>
 
 ### [BONUS] Digital Wireframes & Mockups
 
