@@ -31,11 +31,12 @@ Original App Design Project - README Template
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
+* User must be able to view their collection
 * User must be able to add a computer to their collection
 * User must be able to update the information for each entry in their collection
 * User must be able to login
 * User must be able to sign up
-* User must be able to upload an image
+* User must be able to upload an image **Not sure
 * User must be able to add items to their wish list
 
 **Optional Nice-to-have Stories**
@@ -45,25 +46,32 @@ Original App Design Project - README Template
 
 ### 2. Screen Archetypes
 
-- [ ] [list first screen here]
-* [list associated required story here]
+- [ ] [Signin/signup screen]
+* User must be able to login
+* User must be able to sign up
 * ...
-list second screen here]
-* [list associated required story here]
-* ...
+- [ ] [TableView]
+* User must be able to view their collection
+- [ ] [Popup within the tableview]
+* User must be able to add a computer to their collection
+* User must be able to update the information for each entry in their collection
+- [ ] [Wish list tab view]
+* User must be able to add items to their wishlist
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* [Collection]
+* [Wishlist]
+* [Account]
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [list first screen here]
-* [list screen navigation here]
+- [ ] [Login/signup or the collection screen if already logged in (saved in userDefaults)]
+* [Collection]
+* [Wishlist]
+* [Account]
 * ...
 - [ ] [list second screen here]
 * [list screen navigation here]
